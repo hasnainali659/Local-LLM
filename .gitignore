@@ -1,0 +1,4 @@
+__pycache__
+.chainlit
+ollama_env
+chainlit.md
